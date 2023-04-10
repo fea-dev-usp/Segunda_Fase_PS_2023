@@ -137,6 +137,7 @@ Basicamente, o case se trata de uma análise de regressão, onde o participante 
 * [Basics Decision Tree Regression](https://towardsdatascience.com/machine-learning-basics-decision-tree-regression-1d73ea003fda)
 * [Random Forest Regression](https://towardsdatascience.com/random-forest-regression-5f605132d19d)
 * [Site para ajudar a visualizar dados](https://www.data-to-viz.com/)
+* [Aplicando os algoritmos Árvore de Regressão e Random Forest com Python - FEA.dev](https://www.youtube.com/watch?v=ho1eI54ykoU)
 
 **Critérios de avaliação:**
 * Interpretação do problema (1 ponto)
